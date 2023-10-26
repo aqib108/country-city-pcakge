@@ -12,7 +12,9 @@
             "email": "aqib.mehmood@manafatech.com"
         }
     ],
-    "require": {},
+    "require": {
+        "aqib08/LocationMap": "1.0.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
