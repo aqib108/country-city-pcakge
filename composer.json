@@ -13,17 +13,7 @@
         }
     ],
     "require": {
-        "aqib08/LocationMap": "1.0.0"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Your\\Package\\Namespace\\YourPackageServiceProvider"
-            ],
-            "aliases": {
-                "YourAlias": "Your\\Package\\Namespace\\YourFacade"
-            }
-        },
-        "version": "1.0.0"
+        "aqib08/locationmap": "1.0.0"
     }
+   
 }
