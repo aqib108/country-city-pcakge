@@ -1,0 +1,16 @@
+{
+    "name": "manafa-tech/location-map",
+    "description": "this package used for city and states of country",
+    "autoload": {
+        "psr-4": {
+            "ManafaTech\\LocationMap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aqibmehmood",
+            "email": "aqib.mehmood@manafatech.com"
+        }
+    ],
+    "require": {}
+}
