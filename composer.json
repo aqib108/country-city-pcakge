@@ -1,5 +1,5 @@
 {
-    "name": "manafa-tech/location-map",
+    "name": "aqib-mehmood/location-map",
     "description": "this package used for city and states of country",
     "autoload": {
         "psr-4": {
