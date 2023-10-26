@@ -1,6 +1,6 @@
 {
     "name": "aqib-mehmood/location-map",
-    "description": "this package used for city and states of country",
+    "description": "this package used for city and states of country for the project some necessary configuration before used Thanks",
     "autoload": {
         "psr-4": {
             "ManafaTech\\LocationMap\\": "src/"
