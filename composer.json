@@ -12,5 +12,16 @@
             "email": "aqib.mehmood@manafatech.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Your\\Package\\Namespace\\YourPackageServiceProvider"
+            ],
+            "aliases": {
+                "YourAlias": "Your\\Package\\Namespace\\YourFacade"
+            }
+        },
+        "version": "1.0.0"
+    }
 }
