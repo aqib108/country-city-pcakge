@@ -1,6 +1,8 @@
 {
     "name": "aqib-mehmood/location-map",
     "description": "this package used for city and states of country for the project some necessary configuration before used Thanks",
+    "keywords": ["country", "city", "state", "country city state dropdown", "dropdown"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "ManafaTech\\LocationMap\\": "src/"
@@ -16,5 +18,9 @@
         "php": "^8.0",
         "laravel/framework": "^9.0"
     },
-    "version": "1.0.0"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
 }
